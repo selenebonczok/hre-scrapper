@@ -1,0 +1,11 @@
+beautifulsoup4
+pandas
+requests
+bs4
+lxml
+cchardet
+pynvim
+python-lsp-server
+pylint
+jupyter
+selenium

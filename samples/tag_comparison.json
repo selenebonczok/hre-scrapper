@@ -1,0 +1,146 @@
+{
+    "Education": [
+        0.5,
+        0
+    ],
+    "Blog": [
+        0.46875,
+        0.09375
+    ],
+    "Research": [
+        0.25,
+        0.21875
+    ],
+    "Human Rights Defenders and Activists": [
+        0.21875,
+        0.15625
+    ],
+    "Report": [
+        0.1875,
+        0.15625
+    ],
+    "News": [
+        0.125,
+        0.4375
+    ],
+    "Children": [
+        0.09375,
+        0.1875
+    ],
+    "Europe and Central Asia": [
+        0.09375,
+        0.03125
+    ],
+    "Refugees": [
+        0.09375,
+        0.03125
+    ],
+    "Youth and Human Rights": [
+        0.09375,
+        0
+    ],
+    "Asia and the Pacific": [
+        0.0625,
+        0.09375
+    ],
+    "Discrimination": [
+        0.03125,
+        0.25
+    ],
+    "Women and Girls": [
+        0.03125,
+        0.15625
+    ],
+    "International Justice": [
+        0.03125,
+        0.125
+    ],
+    "China": [
+        0.03125,
+        0.09375
+    ],
+    "Right to Education": [
+        0.03125,
+        0.09375
+    ],
+    "Campaigns": [
+        0.03125,
+        0.09375
+    ],
+    "Bangladesh": [
+        0.03125,
+        0.0625
+    ],
+    "Sexual Violence": [
+        0.03125,
+        0.0625
+    ],
+    "Economic, Social and Cultural Rights": [
+        0.03125,
+        0.0625
+    ],
+    "Middle East and North Africa": [
+        0.03125,
+        0.03125
+    ],
+    "UN Convention on the Rights of the Child": [
+        0.03125,
+        0.03125
+    ],
+    "Morocco and Western Sahara": [
+        0.03125,
+        0.03125
+    ],
+    "Hong Kong": [
+        0.03125,
+        0.03125
+    ],
+    "Maternal Health and Reproductive Rights": [
+        0.03125,
+        0
+    ],
+    "Finland": [
+        0.03125,
+        0
+    ],
+    "Kyrgyzstan": [
+        0.03125,
+        0
+    ],
+    "Portugal": [
+        0.03125,
+        0
+    ],
+    "South East Asia and the Pacific": [
+        0.03125,
+        0
+    ],
+    "Domestic Violence": [
+        0.03125,
+        0
+    ],
+    "Switzerland": [
+        0.03125,
+        0
+    ],
+    "Thailand": [
+        0.03125,
+        0
+    ],
+    "Slovenia": [
+        0.03125,
+        0
+    ],
+    "Public Statement": [
+        0.03125,
+        0
+    ],
+    "Moldova": [
+        0.03125,
+        0
+    ],
+    "Argentina": [
+        0.03125,
+        0
+    ]
+}

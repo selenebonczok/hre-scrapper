@@ -1,0 +1,16 @@
+certifi==2022.12.7        # via requests
+charset-normalizer==2.1.1  # via requests
+docstring-to-markdown==0.11  # via python-lsp-server
+greenlet==2.0.1           # via pynvim
+idna==3.4                 # via requests
+jedi==0.18.2              # via python-lsp-server
+msgpack==1.0.4            # via pynvim
+parso==0.8.3              # via jedi
+pluggy==1.0.0             # via python-lsp-server
+pynvim==0.4.3             # via -r requirements.in
+python-lsp-jsonrpc==1.0.0  # via python-lsp-server
+python-lsp-server==1.7.0  # via -r requirements.in
+requests==2.28.1          # via -r requirements.in
+setuptools==65.6.3        # via python-lsp-server
+ujson==5.7.0              # via python-lsp-jsonrpc, python-lsp-server
+urllib3==1.26.13          # via requests
