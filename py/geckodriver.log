@@ -1,0 +1,685 @@
+1673375097007	geckodriver	INFO	Listening on 127.0.0.1:46925
+1673375097080	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelPDXIQ"
+Gtk-Message: 15:24:57.111: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673375097910	Marionette	INFO	Marionette enabled
+1673375097918	Marionette	INFO	Listening on port 33691
+Read port: 33691
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:51121
+1673375098096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelPDXIQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51121/devtools/browser/de684040-e621-4104-b37c-54172f2cee66
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673375200620	geckodriver	INFO	Listening on 127.0.0.1:55535
+1673375201003	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAqUJ2P"
+Gtk-Message: 15:26:41.036: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673375201867	Marionette	INFO	Marionette enabled
+1673375201876	Marionette	INFO	Listening on port 39155
+Read port: 39155
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:56505
+1673375202013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAqUJ2P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56505/devtools/browser/1a3e3bd8-319d-4eca-897f-5df63fb7c950
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+1673375222681	Marionette	INFO	Stopped listening on port 39155
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673375274614	Marionette	INFO	Stopped listening on port 33691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673375414855	geckodriver	INFO	Listening on 127.0.0.1:39043
+1673375415241	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "44927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiE5X5X"
+*** You are running in headless mode.
+Gtk-Message: 15:30:15.284: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673375415614	Marionette	INFO	Marionette enabled
+1673375415618	Marionette	INFO	Listening on port 43843
+Read port: 43843
+WebDriver BiDi listening on ws://127.0.0.1:44927
+1673375415713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiE5X5X/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44927/devtools/browser/d330b2dd-7df7-44fc-b812-ee30c1105297
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673375521307	geckodriver	INFO	Listening on 127.0.0.1:55539
+1673375521728	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "41499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDTXQaD"
+*** You are running in headless mode.
+Gtk-Message: 15:32:01.769: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673375522168	Marionette	INFO	Marionette enabled
+1673375522172	Marionette	INFO	Listening on port 33227
+Read port: 33227
+WebDriver BiDi listening on ws://127.0.0.1:41499
+1673375522320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDTXQaD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41499/devtools/browser/41d0de6f-0b7f-4c02-ac48-0f17759d22c1
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673375677972	geckodriver	INFO	Listening on 127.0.0.1:54989
+1673375678419	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "43985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBsc4ay"
+*** You are running in headless mode.
+Gtk-Message: 15:34:38.457: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673375678812	Marionette	INFO	Marionette enabled
+1673375678817	Marionette	INFO	Listening on port 36449
+Read port: 36449
+WebDriver BiDi listening on ws://127.0.0.1:43985
+1673375678945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBsc4ay/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43985/devtools/browser/7548f6e9-5b92-44c6-aebb-7f591824beb7
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673380028189	geckodriver	INFO	Listening on 127.0.0.1:44745
+1673380028460	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "51171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezKdqib"
+*** You are running in headless mode.
+Gtk-Message: 16:47:08.489: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673380028821	Marionette	INFO	Marionette enabled
+1673380028825	Marionette	INFO	Listening on port 41647
+Read port: 41647
+WebDriver BiDi listening on ws://127.0.0.1:51171
+1673380028926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezKdqib/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51171/devtools/browser/fd99967f-3059-4bdc-842a-cfc8f5842164
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+1673380043407	geckodriver	INFO	Listening on 127.0.0.1:49681
+1673380043841	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRoIppP"
+*** You are running in headless mode.
+Gtk-Message: 16:47:23.870: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673380044188	Marionette	INFO	Marionette enabled
+1673380044192	Marionette	INFO	Listening on port 37027
+Read port: 37027
+WebDriver BiDi listening on ws://127.0.0.1:48487
+1673380044292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRoIppP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48487/devtools/browser/0c4a3005-f804-43fe-b3bb-bcdb66116240
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673380108487	geckodriver	INFO	Listening on 127.0.0.1:35961
+1673380108841	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "59987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNzrn4Y"
+*** You are running in headless mode.
+Gtk-Message: 16:48:28.869: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673380109183	Marionette	INFO	Marionette enabled
+1673380109186	Marionette	INFO	Listening on port 39207
+Read port: 39207
+WebDriver BiDi listening on ws://127.0.0.1:59987
+1673380109295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNzrn4Y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59987/devtools/browser/f338937d-bfb2-45b5-a4ff-52b8d818e08f
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673380236439	geckodriver	INFO	Listening on 127.0.0.1:50109
+1673380236863	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile40MgcY"
+*** You are running in headless mode.
+Gtk-Message: 16:50:36.895: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673380237233	Marionette	INFO	Marionette enabled
+1673380237238	Marionette	INFO	Listening on port 44211
+Read port: 44211
+WebDriver BiDi listening on ws://127.0.0.1:60313
+1673380237334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile40MgcY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60313/devtools/browser/871596bb-7339-4a9e-ace6-35b45e1c039e
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673380295138	geckodriver	INFO	Listening on 127.0.0.1:39983
+1673380295574	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWHVGCo"
+*** You are running in headless mode.
+Gtk-Message: 16:51:35.602: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673380295947	Marionette	INFO	Marionette enabled
+1673380295952	Marionette	INFO	Listening on port 42993
+Read port: 42993
+WebDriver BiDi listening on ws://127.0.0.1:48393
+1673380296060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWHVGCo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48393/devtools/browser/bed3643d-f913-4b54-98ec-05046078960b
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673380899411	geckodriver	INFO	Listening on 127.0.0.1:45741
+1673380899608	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVW1oQp"
+*** You are running in headless mode.
+Gtk-Message: 17:01:39.639: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673380900084	Marionette	INFO	Marionette enabled
+1673380900089	Marionette	INFO	Listening on port 45635
+Read port: 45635
+WebDriver BiDi listening on ws://127.0.0.1:36745
+1673380900201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVW1oQp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36745/devtools/browser/7ea029a2-8cbe-484c-88e0-29aac82df22c
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673381255812	geckodriver	INFO	Listening on 127.0.0.1:35103
+1673381256235	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "38785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiaBZhD"
+*** You are running in headless mode.
+Gtk-Message: 17:07:36.265: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673381256597	Marionette	INFO	Marionette enabled
+1673381256601	Marionette	INFO	Listening on port 46877
+Read port: 46877
+WebDriver BiDi listening on ws://127.0.0.1:38785
+1673381256698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiaBZhD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38785/devtools/browser/ec9459db-d201-4b00-91d8-a24c433cc1d7
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673381645000	geckodriver	INFO	Listening on 127.0.0.1:33609
+1673381645141	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "53383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9S4IWS"
+*** You are running in headless mode.
+Gtk-Message: 17:14:05.170: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673381645579	Marionette	INFO	Marionette enabled
+1673381645585	Marionette	INFO	Listening on port 41607
+Read port: 41607
+WebDriver BiDi listening on ws://127.0.0.1:53383
+1673381645713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9S4IWS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53383/devtools/browser/d5d21709-24f7-4a86-8202-6ca224dc0cc3
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673381701257	geckodriver	INFO	Listening on 127.0.0.1:46983
+1673381701608	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "43853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMcbmmL"
+*** You are running in headless mode.
+Gtk-Message: 17:15:01.640: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673381701981	Marionette	INFO	Marionette enabled
+1673381701985	Marionette	INFO	Listening on port 40819
+Read port: 40819
+WebDriver BiDi listening on ws://127.0.0.1:43853
+1673381702083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMcbmmL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43853/devtools/browser/19266f14-c717-46ee-9cd5-7b083ba2ae8b
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673381781265	geckodriver	INFO	Listening on 127.0.0.1:37057
+1673381781384	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQGKpUq"
+*** You are running in headless mode.
+Gtk-Message: 17:16:21.420: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673381781749	Marionette	INFO	Marionette enabled
+1673381781753	Marionette	INFO	Listening on port 46335
+Read port: 46335
+WebDriver BiDi listening on ws://127.0.0.1:57487
+1673381781852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQGKpUq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57487/devtools/browser/29874de3-2d92-436e-b294-c02a1a7be063
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673381856891	geckodriver	INFO	Listening on 127.0.0.1:57931
+1673381857138	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesUpBRP"
+*** You are running in headless mode.
+Gtk-Message: 17:17:37.167: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673381857508	Marionette	INFO	Marionette enabled
+1673381857513	Marionette	INFO	Listening on port 35215
+Read port: 35215
+WebDriver BiDi listening on ws://127.0.0.1:48185
+1673381857619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesUpBRP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48185/devtools/browser/39e2a85c-74ee-4e78-9ff7-cae7c40154ec
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673381905370	geckodriver	INFO	Listening on 127.0.0.1:47213
+1673381905671	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile15G168"
+*** You are running in headless mode.
+Gtk-Message: 17:18:25.701: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673381906030	Marionette	INFO	Marionette enabled
+1673381906034	Marionette	INFO	Listening on port 38471
+Read port: 38471
+WebDriver BiDi listening on ws://127.0.0.1:48219
+1673381906140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile15G168/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48219/devtools/browser/11661ad1-bd81-4cda-bf59-02da7db2aad4
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+1673381913915	geckodriver	INFO	Listening on 127.0.0.1:55323
+1673381914140	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile64Xwcn"
+*** You are running in headless mode.
+Gtk-Message: 17:18:34.180: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673381914611	Marionette	INFO	Marionette enabled
+1673381914615	Marionette	INFO	Listening on port 44591
+Read port: 44591
+WebDriver BiDi listening on ws://127.0.0.1:48165
+1673381914712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile64Xwcn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48165/devtools/browser/cc717388-2a43-40e3-aeee-7fa6d211079a
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+1673381926377	geckodriver	INFO	Listening on 127.0.0.1:58381
+1673381926614	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "54553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileULCjqu"
+*** You are running in headless mode.
+Gtk-Message: 17:18:46.659: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673381927192	Marionette	INFO	Marionette enabled
+1673381927196	Marionette	INFO	Listening on port 34845
+Read port: 34845
+WebDriver BiDi listening on ws://127.0.0.1:54553
+1673381927355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileULCjqu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54553/devtools/browser/71acda50-6519-4a1c-8646-11e168777413
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673381977592	geckodriver	INFO	Listening on 127.0.0.1:54021
+1673381978170	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "55131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDh0fQ6"
+*** You are running in headless mode.
+Gtk-Message: 17:19:38.212: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673381978697	Marionette	INFO	Marionette enabled
+1673381978702	Marionette	INFO	Listening on port 43695
+Read port: 43695
+WebDriver BiDi listening on ws://127.0.0.1:55131
+1673381978862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDh0fQ6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55131/devtools/browser/b6e51c33-a56d-48b0-8a84-12b27019ed7a
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+1673381990592	geckodriver	INFO	Listening on 127.0.0.1:60109
+1673381991123	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "44371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSiusKV"
+*** You are running in headless mode.
+Gtk-Message: 17:19:51.183: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673381991769	Marionette	INFO	Marionette enabled
+1673381991773	Marionette	INFO	Listening on port 39227
+Read port: 39227
+WebDriver BiDi listening on ws://127.0.0.1:44371
+1673381991891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSiusKV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44371/devtools/browser/3eaeba11-f800-4723-9233-9d0ab264f3e8
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673382056122	geckodriver	INFO	Listening on 127.0.0.1:36051
+1673382056735	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "49161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePwLMds"
+*** You are running in headless mode.
+Gtk-Message: 17:20:56.814: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673382057474	Marionette	INFO	Marionette enabled
+1673382057485	Marionette	INFO	Listening on port 42547
+Read port: 42547
+WebDriver BiDi listening on ws://127.0.0.1:49161
+1673382057667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePwLMds/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49161/devtools/browser/07aa49bf-53a8-4639-8143-9887808ed8fa
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673382111670	geckodriver	INFO	Listening on 127.0.0.1:42669
+1673382111997	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "44001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqOZE6r"
+*** You are running in headless mode.
+Gtk-Message: 17:21:52.041: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673382112453	Marionette	INFO	Marionette enabled
+1673382112458	Marionette	INFO	Listening on port 36587
+Read port: 36587
+WebDriver BiDi listening on ws://127.0.0.1:44001
+1673382112559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqOZE6r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44001/devtools/browser/0add9bb9-2353-4da0-9da7-5c0ac324d8f3
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+1673382122087	geckodriver	INFO	Listening on 127.0.0.1:60079
+1673382122614	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "44637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekZhFSc"
+*** You are running in headless mode.
+Gtk-Message: 17:22:02.659: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673382123228	Marionette	INFO	Marionette enabled
+1673382123232	Marionette	INFO	Listening on port 45375
+WebDriver BiDi listening on ws://127.0.0.1:44637
+Read port: 45375
+1673382123576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekZhFSc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44637/devtools/browser/c9f4366e-20be-4f66-8d99-55ec5bcf3c42
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673382179868	geckodriver	INFO	Listening on 127.0.0.1:44295
+1673382180743	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "49843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenGfyYC"
+*** You are running in headless mode.
+Gtk-Message: 17:23:00.820: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673382181891	Marionette	INFO	Marionette enabled
+1673382181897	Marionette	INFO	Listening on port 45535
+Read port: 45535
+WebDriver BiDi listening on ws://127.0.0.1:49843
+1673382182150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenGfyYC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49843/devtools/browser/a9510271-3cd6-4bab-861f-99f1cab662d1
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673382272967	geckodriver	INFO	Listening on 127.0.0.1:51325
+1673382273394	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuXR9jm"
+*** You are running in headless mode.
+Gtk-Message: 17:24:33.449: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673382274173	Marionette	INFO	Marionette enabled
+1673382274180	Marionette	INFO	Listening on port 37011
+Read port: 37011
+WebDriver BiDi listening on ws://127.0.0.1:60473
+1673382274349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuXR9jm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60473/devtools/browser/3137636b-2e20-4314-95ed-e012f51f48e2
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673382329471	geckodriver	INFO	Listening on 127.0.0.1:40463
+1673382329943	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWZncGc"
+*** You are running in headless mode.
+Gtk-Message: 17:25:29.982: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673382330426	Marionette	INFO	Marionette enabled
+1673382330432	Marionette	INFO	Listening on port 34705
+Read port: 34705
+WebDriver BiDi listening on ws://127.0.0.1:36965
+1673382330558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWZncGc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36965/devtools/browser/8c35804c-86e4-4c7f-b45a-b90f20d239e3
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+1673382341155	geckodriver	INFO	Listening on 127.0.0.1:38307
+1673382341297	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "53757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePrmGk4"
+*** You are running in headless mode.
+Gtk-Message: 17:25:41.346: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673382341990	Marionette	INFO	Marionette enabled
+1673382341996	Marionette	INFO	Listening on port 40157
+Read port: 40157
+WebDriver BiDi listening on ws://127.0.0.1:53757
+1673382342123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePrmGk4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53757/devtools/browser/8b0e2dea-fd57-4ae8-b9d9-44b2a1228576
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://analytics.iraiser.eu/?auth_key=45bd5c37fe7da6aabf6a353da2f8b5ad&site=www.amnesty.fr, line 2: SyntaxError: expected expression, got '<'
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1673382412428	geckodriver	INFO	Listening on 127.0.0.1:34933
+1673382413161	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileul2zob"
+*** You are running in headless mode.
+Gtk-Message: 17:26:53.255: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1673382414140	Marionette	INFO	Marionette enabled
+1673382414146	Marionette	INFO	Listening on port 43919
+Read port: 43919
+WebDriver BiDi listening on ws://127.0.0.1:39449
+1673382414315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileul2zob/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39449/devtools/browser/e9553e92-e7e7-404d-a732-d7d8047ba4b9
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

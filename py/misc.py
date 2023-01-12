@@ -1,5 +1,7 @@
 # Miscelaneous functions
 
+from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
 import time, requests, glob, os
 import pandas as pd
 
@@ -17,6 +19,14 @@ def connect(url, time_limit = 15):
         except:
             pass
     return(content) 
+
+def sconnect(url):
+    options = Options()
+    options.add_argument("--headless")
+    browser = webdriver.Firefox(options=options)
+    browser.get(url)
+    html = browser.page_source
+    return(html)
 
 def dir_to_dataframe(path):
     all_files = glob.glob(os.path.join(path, "*.csv"))

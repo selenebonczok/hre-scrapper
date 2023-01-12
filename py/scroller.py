@@ -15,8 +15,6 @@ import time
 import lxml
 
 def make_soup_from_scrolling_site(url, pause_time=1):
-
-
     browser = webdriver.Firefox()
     browser.get(url)
     last_height = browser.execute_script("return document.body.scrollHeight")

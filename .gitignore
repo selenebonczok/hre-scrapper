@@ -1,4 +1,4 @@
 *.ipynb
 /ignore
 /__pycache__
-/py/myenv
+py/__pycache__
